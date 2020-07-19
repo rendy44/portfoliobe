@@ -26,13 +26,12 @@
       "plugin": "upload",
       "required": false
     },
-    "PublishDate": {
-      "type": "datetime",
-      "private": false
-    },
     "Publish": {
       "type": "boolean",
       "default": false
+    },
+    "categories": {
+      "collection": "category"
     }
   }
 }
