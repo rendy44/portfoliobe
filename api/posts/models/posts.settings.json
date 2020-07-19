@@ -1,8 +1,8 @@
 {
   "kind": "collectionType",
-  "collectionName": "posts",
+  "collectionName": "post",
   "info": {
-    "name": "Posts"
+    "name": "Post"
   },
   "options": {
     "increments": true,
